@@ -12,6 +12,12 @@ def readImage(file):
   blaaa
   
   
+  def detectAge(image):
+    blala
+    blaa
+    blaa
+  
+  
   
   
   thankyou
