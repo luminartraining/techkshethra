@@ -4,3 +4,14 @@ here is the program to face and gender recogonition project
 def readImage(file):
   reading file blabla
   blabla
+  
+ def genderDetection(Image):
+ 
+  bla
+  bla
+  blaaa
+  
+  
+  
+  
+  thankyou
